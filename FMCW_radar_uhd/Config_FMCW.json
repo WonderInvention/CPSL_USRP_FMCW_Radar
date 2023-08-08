@@ -1,0 +1,9 @@
+{
+    "Radar_enabled":true,
+    "multiple_runs": {
+        "perform_multiple_runs": false,
+        "num_runs": 180,
+        "evaluate_spoofing": true,
+        "evaluate_parameter_estimation": false    
+    }
+}

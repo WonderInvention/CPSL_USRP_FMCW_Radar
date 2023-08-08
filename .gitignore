@@ -1,0 +1,16 @@
+
+MATLAB/csvs_to_plot/
+MATLAB/generated_plots/
+FMCW_radar_uhd/build/
+.asv
+USRP_utilities/USRP_link_budget_calibration/build/
+MATLAB/.~lock.attack_subsystem_spoofing_performance.csv#
+FMCW_radar_uhd/.VSCodeCounter/
+
+
+# ignored file types
+*.csv
+*.mat
+*.png
+*.pdf
+*.gif
